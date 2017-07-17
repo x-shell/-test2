@@ -1,4 +1,4 @@
-
+﻿
 
 /*小于750px的断点*/
 
@@ -85,7 +85,6 @@
 @media screen and (min-width:850px) {
     .portfolio-item {
         width: 33.33%;
-        order: 0;
     }
 }
 
@@ -97,6 +96,7 @@
         margin: 0 auto;
     }
     .nav-bar a:hover {
-        border-bottom: 2px solid #ef3125;
+        border-bottom: 2px solid #ef3125; 
+      
     }
 }
